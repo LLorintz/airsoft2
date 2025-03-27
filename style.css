@@ -33,7 +33,16 @@ li {
 }
 
 #csapat {
+  width: 400px;
+  height: auto;
   max-width: 50%;
+  float: right;
+  margin-left: 25px;
+  border: 6px dashed white;
+}
+
+.year{
+  font-style: italic;
 }
 
 footer {
